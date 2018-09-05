@@ -3,36 +3,55 @@ Full bank text dump of game dialogue
 [NP] - New Page/paragraph
 [END] - Finish talking
 H:Address: 130000 - 13E929
+Jazz - I've kick started the beginning. Feel free to edit any inaccuracies I have.
 
 あああああ[NL]
 あああああ[END]
+aaaaa[NL]
+aaaaa[END]
 
 いいいい[NL]
    あああああ[END]
+iiii[NL]
+   aaaaa[END]
 
 しんだ[END]
+Died.[END]
 
 [HERO]：[NL]
 うう……ん[END]
+[HERO]：[NL]
+Fu……[END]
 
 ていこくぐんへいし：[NL]
 やった あたったぜ！[END]
+Empire Soldier: 
+BOOYA! Got'em!
 
 ソリッド：[NL]
 いまの ほうげきは[NL]
 なんだ！？[END]
+Solid: [NL]
+What the heck was that?
 
 ていこくぐんへいし：[NL]
 あっ ソリッドぐんそう[NL]
 な なんでもありません[END]
+Empire Soldier:
+Err, nothing, Sir!
 
 ソリッド：[NL]
 きみが やったのか[NP]
 だれが ほうげきの[NL]
 きょかをだした？[END]
+Solid: 
+For the love of Zi…
+Did you orchestrate this?
 
 ていこくぐんへいし：[NL]
 い いえ その……[END]
+Empire Soldier:
+N-no, Sir!
 
 ソリッド：[NL]
 しゅせんじょうから とおく[NL]
@@ -41,38 +60,61 @@ H:Address: 130000 - 13E929
 われわれは ていこくぐんの[NL]
 いちいんとして[NL]
 ここをまもらなければ[END]
+Solid:
+I DON'T CARE how far from civilisation we are, 
+it’s OUR JOB as members of the Empire Army to protect this area.
 
 ていこくぐんへいし：[NL]
 わ わかっています[NP]
 でも こんな へんきょうのちには[NL]
 きょうわこくのやつらだって[NL]
 きやしませんよ[END]
+Empire Soldier:
+But Sir, no one comes this remote into Republic territory.
 
 ソリッド：[NL]
 まんがいち[NL]
 ということもある[END]
+Solid:
+Sometimes they do. 
 
 ていこくぐんへいし：[NL]
 はあ…… でも[END]
+Empire Soldier:
+But...
 
 ソリッド：[NL]
 とにかく こんかいだけは[NL]
 みのがしてやる[NL]
 はやく はいちにつけ[END]
+Solid:
+NO MORE BUTS!
+Help me find something to salvage this one.
+It’d be a shame to let it go to waste.
 
 ていこくぐんへいし：[NL]
 は はいっ[END]
+Y-yes, Sir!
 
 ていこくぐんへいし：[NL]
 ……ちぇっ こどものくせに[END]
+Empire Soldier:
+Pfft... 
+What a dick!
 
 ブルージェム：[NL]
 い いまのは ばくはつおん！？[NP]
 ああっ！[END]
+Bluejem:
+What was that explosion!?
+Aahh!
 
 ブルージェム：[NL]
 たいへんだ[NL]
 おおけがをしているぞ！[END]
+Bluejem:
+It's in bad shape 
+but still alive! 
 
 ブルージェム：[NL]
 こっちは……[NP]
@@ -80,37 +122,62 @@ H:Address: 130000 - 13E929
 はんのうがない[NP]
 だれか しらないが[NL]
 ひどいことを……[END]
+Bluejem:
+I had better check...
+Oh no, how awful. 
+Who would do such a ruthless thing...?
 
 ブルージェム：[NL]
 とにかく こいつだけでも[NL]
 たすけてやらなければ[END]
+Bluejem:
+Hang in there, buddy.
+I'll try and save you.
 
 ていこくぐんへいし：[NL]
 ぎんのライガーとは めずらしい！[NL]
 こいつをつかまえれば[NL]
 ていこくに かえらせて[NL]
 もらえるかもしれないな[END]
+Empire Soldier:
+A Silver Liger!
+Sheesh, you don't see that everyday.
+I better cart it back to the Empire.
 
 ていこくぐんへいし：[NL]
 そしたら[NL]
 こんなドいなかとも おさらばだ！[END]
+Empire Soldier:
+???????????????????????????
+???????????????????????????
 
 ブルージェム：[NL]
 し しまった ていこくぐんに[NL]
 みつかったか！[NL]
 ライガーゼロ にげるんだ！[END]
+Bluejem:
+
 
 ライガーゼロ：[NL]
 グルル[END]
+Liger Zero:
+Grrr...
 
 ていこくぐんへいし：[NL]
 そうはさせるか！[END]
+Empire Soldier:
+Stop right there!
 
 ブルージェム：[NL]
 うわーっ！[END]
+Bluejem:
+Wahh!
 
 ていこくぐんへいし：[NL]
 さあ あきらめて そいつをわたしな！[END]
+Empire Soldier:
+That's mine!
+Hand it over!
 
 ブルージェム：[NL]
 うう……[NP]
@@ -118,18 +185,30 @@ H:Address: 130000 - 13E929
 うまくいったんだ[NP]
 ていこくなんかに[NL]
 わたせない……[END]
+Bluejem:
+Uh, no way!
+I paid a lot of money for it...
+
 
 ていこくぐんへいし：[NL]
 じゃあ かくごしな[END]
+Empire Soldier:
+Suit yourself.
+
 
 [HERO]：[NL]
 まてーっ！[END]
+WAAAIT!
 
 ていこくぐんへいし：[NL]
 なんだ おまえは！[END]
+Empire Soldier:
+Who are you?
 
 ブルージェム：[NL]
 あぶない きちゃだめだ！[END]
+Bluejem:
+I'm not easily intimidated!
 
 [HERO]：[NL]
 じじょうはしらないけど[NL]
