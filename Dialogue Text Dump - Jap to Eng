@@ -176,8 +176,7 @@ Wahh!
 ていこくぐんへいし：[NL]
 さあ あきらめて そいつをわたしな！[END]
 Empire Soldier:
-Hey, that's mine!
-Hand it over!
+That's mine, hand it over!
 
 ブルージェム：[NL]
 うう……[NP]
@@ -187,14 +186,13 @@ Hand it over!
 わたせない……[END]
 Bluejem:
 Uh, no way!
-I paid a lot of money for it...
-
+I worked my butt off fixing it.
+As if I'd just hand it over to the Empire.
 
 ていこくぐんへいし：[NL]
 じゃあ かくごしな[END]
 Empire Soldier:
 Suit yourself.
-
 
 [HERO]：[NL]
 まてーっ！[END]
@@ -203,12 +201,12 @@ WAAAIT!
 ていこくぐんへいし：[NL]
 なんだ おまえは！[END]
 Empire Soldier:
-Who are you?
+What are you! (Who?)
 
 ブルージェム：[NL]
 あぶない きちゃだめだ！[END]
 Bluejem:
-I'm not easily intimidated!
+I won't be intimidated.
 
 [HERO]：[NL]
 じじょうはしらないけど[NL]
@@ -223,17 +221,25 @@ I'm not easily intimidated!
 
 ライガーゼロ：[NL]
 ガウッ！[END]
+Liger Zero:
+GRRR!
 
 ていこくぐんへいし：[NL]
 うおっ！？[END]
+Emperial Soldier:
+Oh!?
 
 ライガーゼロ：[NL]
 ガアーッ！[END]
+Liger Zero:
+GAARRR!
 
 ブルージェム：[NL]
 ラ ライガーゼロが[NL]
 あのしょうねんを[NL]
 まもろうとしている！？[END]
+Bluejem:
+L-Liger Zero
 
 ブルージェム：[NL]
 きみ なまえは！？[END]
